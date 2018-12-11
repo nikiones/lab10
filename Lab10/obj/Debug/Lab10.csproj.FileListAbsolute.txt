@@ -1,0 +1,5 @@
+C:\Users\Tq\Desktop\SEREDA\Lab10\obj\Debug\Lab10.CountryForm.resources
+C:\Users\Tq\Desktop\SEREDA\Lab10\obj\Debug\Lab10.MainForm.resources
+C:\Users\Tq\Desktop\SEREDA\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+C:\Users\Tq\Desktop\SEREDA\Lab10\obj\Debug\Lab10.csproj.GenerateResource.Cache
+C:\Users\Tq\Desktop\SEREDA\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Tq\source\repos\SEREDA\lab8lib\bin\Debug\lab8lib.dll
+C:\Users\Tq\source\repos\SEREDA\lab8lib\bin\Debug\lab8lib.pdb
+C:\Users\Tq\source\repos\SEREDA\lab8lib\obj\Debug\lab8lib.csprojResolveAssemblyReference.cache
+C:\Users\Tq\source\repos\SEREDA\lab8lib\obj\Debug\lab8lib.csproj.CoreCompileInputs.cache
+C:\Users\Tq\source\repos\SEREDA\lab8lib\obj\Debug\lab8lib.dll
+C:\Users\Tq\source\repos\SEREDA\lab8lib\obj\Debug\lab8lib.pdb
+C:\Users\Tq\Desktop\SEREDA\lab8lib\bin\Debug\lab8lib.dll
+C:\Users\Tq\Desktop\SEREDA\lab8lib\bin\Debug\lab8lib.pdb
+C:\Users\Tq\Desktop\SEREDA\lab8lib\obj\Debug\lab8lib.csprojResolveAssemblyReference.cache
+C:\Users\Tq\Desktop\SEREDA\lab8lib\obj\Debug\lab8lib.csproj.CoreCompileInputs.cache
+C:\Users\Tq\Desktop\SEREDA\lab8lib\obj\Debug\lab8lib.dll
+C:\Users\Tq\Desktop\SEREDA\lab8lib\obj\Debug\lab8lib.pdb
